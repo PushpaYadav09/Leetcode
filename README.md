@@ -36,7 +36,7 @@ I mostly solve problems in:
 
 Java
 
-(Optional: Add others if you plan to use them, e.g., Python, C++)
+
 
 🗂️ Repository Structure
 📁 LeetCode/
