@@ -12,5 +12,10 @@ class Solution {
                 l++;
             }
         }
-        return ml == Integer.MAX_VALUE ? 0 : ml;    }
+        return ml == Integer.MAX_VALUE ? 0 : ml;   
+        // if(ml== Integer.MAX_VALUE)
+        // return 0'
+        // else
+        //retrun ml;
+         }
 }
